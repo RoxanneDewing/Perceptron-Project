@@ -1,7 +1,5 @@
 #Roxanne Dewing
-#V00853942
 #Gareth Marriott
-#V00875748
 #compile with:
 #python3 NaiveBayes.py
 
